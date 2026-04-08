@@ -1,0 +1,20 @@
+# Build artifacts
+*.egg-info/
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C++ extension binaries (compiled locally)
+*.so
+*.pyd
+*.dylib
+
+# Virtual environment
+.venv/
+venv/
+
+# Editor
+.DS_Store

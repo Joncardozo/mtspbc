@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "pybind11>=2.11", "numpy"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mtspbc"
+version = "1.0.0"
+description = "ALNS-based solver for the multiple Travelling Salesman Problem with Backup Coverage (mTSP-BC)"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.24"]
+
+[project.scripts]
+mtspbc = "mtspbc:_cli"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["mtspbc*"]
