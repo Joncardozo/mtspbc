@@ -4,8 +4,10 @@ ALNS-based solver for the **multiple Travelling Salesman Problem with Backup Cov
 
 Supplemental material for:
 
-> **[Paper title]** — *[Authors]*  
-> DOI: `[DOI placeholder]`
+> **An Adaptive Large Neighborhood Search for the
+Multiple Traveling Salesman Problem with
+Backup Coverage** — *Cardozo, Dhein and Araújo*  
+> DOI: `0.1109/ACCESS.2026.XXXXXXX`
 
 ## Installation
 
