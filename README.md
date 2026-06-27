@@ -9,6 +9,8 @@ Multiple Traveling Salesman Problem with
 Backup Coverage** — *Cardozo, Dhein and Araújo*  
 > DOI: `0.1109/ACCESS.2026.XXXXXXX`
 
+Compute capsule with reproductible execution provisioned in Code Ocean platform. DOI: 10.24433/CO.2463253.v2
+
 ## Installation
 
 Requires a C++17 compiler, Python ≥ 3.9, and pybind11.
