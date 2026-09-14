@@ -7,7 +7,7 @@ Supplemental material for:
 > **An Adaptive Large Neighborhood Search for the
 Multiple Traveling Salesman Problem with
 Backup Coverage** — *Cardozo, Dhein and Araújo*  
-> DOI: `0.1109/ACCESS.2026.XXXXXXX`
+> DOI: `10.1109/ACCESS.2026.3734846`
 
 Compute capsule with reproductible execution provisioned in Code Ocean platform. DOI: 10.24433/CO.2463253.v2
 
